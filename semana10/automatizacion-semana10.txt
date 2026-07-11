@@ -1,0 +1,10 @@
+¿Qué evento activa el flujo?
+Evento: nuevo reporte registrado.
+Acción: enviar mensaje a Telegram.
+
+¿Qué mensaje se enviaría a Telegram?
+Mensaje: “Nuevo reporte recibido. Revisar sistema.”
+
+¿Qué información no debería enviarse por seguridad?
+Por seguridad es importante no enviar credenciales, ni datos sensi-
+bles que comprometan información personales del usuario. 

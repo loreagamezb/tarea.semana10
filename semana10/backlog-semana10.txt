@@ -1,0 +1,11 @@
+Como lideresa comunitaria quiero reportar irregularidades 
+en procesos llevados a cabo en el territorio
+
+Como ciudadana quiero registrar una incidencia para dejar
+evidencia del caso.
+
+Como coordinador quiero recibir una alerta en Telegram 
+para revisar un nuevo reporte.
+
+Como ciudadana quiero respuestas frente al caso 
+expuesto anteriormente. 

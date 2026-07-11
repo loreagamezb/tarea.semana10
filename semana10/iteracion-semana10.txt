@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+Deuda técnica y corrección de errores
+
+¿Por qué son las más importantes?
+Considero que son las más importantes porque mientras la primera
+se encarga de la optimización o refactorización necesaria para 
+mantener el código saludable, la última se encarga de identificar
+los fallos en el software para que sean reparados
+
+Qué significa para ti que una tarea esté “terminada”?
+Para mí que una tarea esté terminada significa que en el proceso de 
+su realización ésta fue probada, sus errores fueron corregidos
+en su debido momento, por lo tanto funciona y queda registrada
+de manera correcta en Git
+
